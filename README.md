@@ -1,2 +1,6 @@
 # medusa
 Teste para vaga de desenvolvedor Web na empresa Smart Innovation
+
+
+- Para funcionar basta subir aplicação em um servidor online ou local:
+  Altere das duas linhas siteurl e home na coluna option_name que se encontra na tabela wp_options.
